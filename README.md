@@ -18,11 +18,7 @@ Features
 Requirements
 ------------
 
-To run this application, ensure that you have all the required dependencies. These can be installed by running:
-    ```bash 
-    pip install -r requirements.txt
-
-The required dependencies are:
+To run this application, ensure that you have all the required dependencies. The required dependencies are:
 
 *   sentence-transformers
     
