@@ -51,16 +51,20 @@ Make sure to follow the instructions on Hugging Face to download and set up the 
 How to Run
 ----------
 
-1. Clone the repository  
-```bash   git clone cd   `
+1. Clone this repository.
+    ```bash
+    git clone https://github.com/rud-3003/Blog_Generation_Llama
     
-2.  bashCopy codepip install -r requirements.txt
+2.  Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
     
 3.  Download the model from Hugging Face and save it to your desired location.
     
 4.  Update the application configuration to point to the model file location if needed.
     
-5.  bashCopy codestreamlit run app.py
+5.  Run the application:
+    ```bashstreamlit run app.py
     
 6.  The application will start and be accessible through your browser at http://localhost:8501.
     
