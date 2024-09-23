@@ -20,7 +20,7 @@ Requirements
 
 To run this application, ensure that you have all the required dependencies. These can be installed by running:
 
-`   bashCopy codepip install -r requirements.txt   `
+`   pip install -r requirements.txt   `
 
 The required dependencies are:
 
@@ -51,7 +51,8 @@ Make sure to follow the instructions on Hugging Face to download and set up the 
 How to Run
 ----------
 
-1.  bashCopy codegit clone cd
+1. Clone the repository  
+```bash   git clone cd   `
     
 2.  bashCopy codepip install -r requirements.txt
     
