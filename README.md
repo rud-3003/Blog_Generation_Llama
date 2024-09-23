@@ -19,8 +19,8 @@ Requirements
 ------------
 
 To run this application, ensure that you have all the required dependencies. These can be installed by running:
-
-`   pip install -r requirements.txt   `
+    ```bash 
+    pip install -r requirements.txt
 
 The required dependencies are:
 
@@ -64,7 +64,8 @@ How to Run
 4.  Update the application configuration to point to the model file location if needed.
     
 5.  Run the application:
-    ```bashstreamlit run app.py
+    ```bash
+    streamlit run app.py
     
 6.  The application will start and be accessible through your browser at http://localhost:8501.
     
